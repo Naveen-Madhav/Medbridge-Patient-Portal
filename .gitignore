@@ -16,3 +16,10 @@
 
 # Logs
 *.log
+
+# Private workflow / AI session files — never commit
+SKILL.md
+*interview*
+*workflow*
+*-session*
+uploads/
